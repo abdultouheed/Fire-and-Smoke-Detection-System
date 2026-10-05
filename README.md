@@ -186,7 +186,7 @@ Run the model and test script according to the implementation:
 python fire_smoke_model.py
 ```
 
-or
+and
 
 ```bash
 python fire_smoke_test.py
