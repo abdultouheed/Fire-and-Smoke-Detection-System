@@ -1,4 +1,4 @@
-# 🔥 Fire and Smoke Detection for Mining Safety
+# 🔥 Fire and Smoke Detection System
 
 An **AI-powered UAV-based Fire and Smoke Detection System** designed for mining safety applications using the **YOLO object detection framework**.
 
